@@ -1,0 +1,33 @@
+segment_sources:
+  P09342330:
+    type: origin_type
+    relation: translation
+    language: en
+  P2819F728:
+    type: origin_type
+    relation: translation
+    language: fr
+  PDDB2D339:
+    type: origin_type
+    relation: translation
+    language: pt
+  P5939B33C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  36f9db7d9e114205af7410eeb43773e5:
+    P09342330: 524dc4880770438689f31386e7f7607d
+    P2819F728: 6dd978e8b8694a3eb57780500d2be20f
+    PDDB2D339: 17b864d70e404083a68d5217d38ae3c4
+    P5939B33C: 449577e44a234981989a5895daf3a6c5
+  ed4c48709fa240d2b5e8f18495f9729e:
+    P09342330: 4104858e9b574b50810bd4207474ed27
+    P2819F728: dec61cdee2414a238556797f8838c5cb
+    PDDB2D339: 7f018975bfcb4ec989c559da35d1abe5
+    P5939B33C: 89a0f9ac203c4162b159a907426213b2
+  9bba6bc1d58840c98f5e2010d32103e1:
+    P09342330: 9f74d9744f4445d5a5c0032e55c75d62
+    P2819F728: 6e1ec404cb144a279183e9782d561f4d
+    PDDB2D339: b25605e982894c8fbe7899a4e6082bfd
+    P5939B33C: d0b0afdbc66c4dc0b19f95df59515c05
